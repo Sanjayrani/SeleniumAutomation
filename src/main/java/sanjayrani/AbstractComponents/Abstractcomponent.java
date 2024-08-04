@@ -12,6 +12,8 @@ import sanjayrani.pageobjects.Orderpage;
 
 import java.time.Duration;
 
+//This is the abstract class
+
 public class Abstractcomponent {
 
     WebDriver driver;
